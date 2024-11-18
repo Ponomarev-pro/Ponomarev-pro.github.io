@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    display: flex;
+    justify-content: center;
+    height: 100; 
+    margin: 0;
+}
+h2{
+    color: rgb(181, 2, 2)
+}
+body {
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+}
+main {
+    display: inline-block;
+    margin: 20px;
+}
